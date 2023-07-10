@@ -8,14 +8,20 @@
 
 🎨 Además de programar, tengo un trasfondo en artes visuales, lo que me permite tener una perspectiva creativa en el desarrollo de interfaces y diseños atractivos.
 
-## Habilidades Técnicas
+⚙️ Mis habilidades técnicas incluyen:
 
-💡 Lenguajes de Programación: JavaScript
-💼 Frameworks y Librerías: Node.js, React, Redux, Express, Ant Design
-🗄️ Bases de Datos: PostgreSQL, Sequelize
-🚀 Metodologías Ágiles: Scrum
-📝 Control de Versiones: Git
-🔍 Estructura de Datos y Algoritmos
+- Lenguajes de Programación: JavaScript
+- Frameworks y Librerías: Node.js, React, Redux, Express, Ant Design
+- Bases de Datos: PostgreSQL, Sequelize
+- Metodologías Ágiles: Scrum
+- Control de Versiones: Git
+- Estructura de Datos y Algoritmos
+
+🚀 Estoy comprometida con el aprendizaje continuo y la mejora constante. Me apasiona enfrentar nuevos desafíos y resolver problemas complejos de manera eficiente y efectiva.
+
+💡 Además de mi experiencia técnica, poseo habilidades en resolución de problemas, atención al detalle y comunicación efectiva, lo que me permite colaborar eficazmente en equipos y entregar resultados de alta calidad.
+
+🌱 Fuera del ámbito tecnológico, me gusta dedicar tiempo a mis intereses y pasatiempos, como la pintura y el dibujo. También disfruto de la lectura y la exploración de nuevas tecnologías.
 
 ## Contacto
 
@@ -24,7 +30,7 @@
 - LinkedIn: [Camila Oyene](https://www.linkedin.com/in/camila-oyene-129505175/)
 - Email: [coyene63@gmail.com]
 
-¡Gracias por visitar mi perfil de GitHub! Estoy emocionada de seguir creando proyectos sorprendentes y explorando nuevas tecnologías en el mundo del desarrollo web.
+¡Gracias por visitar mi perfil de GitHub! Estoy emocionada de seguir creando proyectos sorprendentes y explorando nuevas tecnologías en el mundo del desarrollo web. Mi capacidad de perseverancia y mi dedicación constante me impulsan a lograr resultados excepcionales.
 
 
 <!--
