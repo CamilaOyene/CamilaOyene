@@ -30,8 +30,7 @@
 - LinkedIn: [Camila Oyene](https://www.linkedin.com/in/camila-oyene-129505175/)
 - Email: [coyene63@gmail.com]
 
-¡Gracias por visitar mi perfil de GitHub! Estoy emocionada de seguir creando proyectos sorprendentes y explorando nuevas tecnologías en el mundo del desarrollo web. Mi capacidad de perseverancia y mi dedicación constante me impulsan a lograr resultados excepcionales.
-
+¡Gracias por visitar mi perfil de GitHub! Estoy emocionada de seguir creando proyectos sorprendentes y explorando nuevas tecnologías en el mundo del desarrollo web. 
 
 <!--
 **CamilaOyene/CamilaOyene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
