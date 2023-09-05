@@ -4,12 +4,14 @@
 🚀 Desarrolladora Full Stack con experiencia en tecnologías como JavaScript, Node.js, React, Redux, Express y Ant Design. Actualmente, estoy enfocada en aprender Python a través del curso de ITMaster y estoy explorando React Native por cuenta propia.
 
 ## Habilidades Técnicas
-- Lenguaje de Programación: JavaScript
+- Lenguajes de Programación: JavaScript, Python
 - Frameworks y Librerías: Node.js, React, Redux, Express, Ant Design
 - Bases de Datos: PostgreSQL, Sequelize
 - Metodologías Ágiles: Scrum
 - Control de Versiones: Git
 - Estructura de Datos y Algoritmos
+- Desarrollo en React Native
+- Aprendizaje Autodidacta
 
 ## Experiencia
 💼 He participado en diversos proyectos que me han permitido aplicar mis habilidades técnicas y contribuir al desarrollo de soluciones efectivas.
