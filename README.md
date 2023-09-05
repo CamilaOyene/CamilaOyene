@@ -1,5 +1,4 @@
-Copy code
-# Perfil de GitHub: [Camila Oyene](https://github.com/CamilaOyene)
+# ¡Hola! Soy Camila Oyene 🌟
 
 ## Resumen
 🚀 Desarrolladora Full Stack con experiencia en tecnologías como JavaScript, Node.js, React, Redux, Express y Ant Design. Actualmente, estoy enfocada en aprender Python a través del curso de ITMaster y estoy explorando React Native por cuenta propia.
