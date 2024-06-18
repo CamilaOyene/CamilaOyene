@@ -24,7 +24,7 @@
 🎨 Mi interés en las artes visuales aporta una perspectiva creativa al diseño de interfaces y experiencias de usuario. Es por esto que en colaboraciones pasadas mi posición en el proyecto estuvo bien enfocada a el perfeccionamiento estetico de las interfaces así como su usabilidad. 
 
 ## Aprendizaje Continuo
-🤓📚 Estoy comprometida con el aprendizaje constante y la resolución de problemas, buscando siempre nuevos desafíos y soluciones eficientes. Actualmente, estoy aprendiendo Python en el curso de ITMaster y explorando Django de forma autodidacta. 
+🤓📚 Estoy comprometida con el aprendizaje constante y la resolución de problemas, buscando siempre nuevos desafíos y soluciones eficientes.
 
 ## Intereses Personales
 👩‍🎨 Fuera del ámbito tecnológico, disfruto de actividades como la pintura, lectura y pastelería 🎨📖🧁 .
