@@ -1,6 +1,6 @@
 # ¡Hola! Soy Camila Oyene 🌟
 
-🚀 Desarrolladora Full Stack con experiencia en tecnologías como JavaScript, Node.js, React, Redux, Express y Ant Design. Actualmente, estoy comprometida con aprender Python y Django.
+🚀 Desarrolladora Web con experiencia en tecnologías como JavaScript, Node.js, React, Redux, Express y Ant Design. Estoy muy comprometida con el aprendizaje constante, por lo que me gusta aprender y probar diferentes tecnologías , así como reforzar conocimientos mientras espero nuevos desafíos💁
 
 ## Habilidades Técnicas
 - Lenguajes de Programación: JavaScript, Python
@@ -13,21 +13,10 @@
 - Estructura de Datos y Algoritmos
 - MVC 
 - Desarrollo movil React Native
-
-## Experiencia
-💼 Actualmente me encuentro colaborando en un proyecto Freelance aplicando patrones de diseño como :
- - Dao como patron de diseño a seguir para la comunicación con base de datos. 
- - MVC para una arquitectura modular y mantenible. 👩‍💻
-
- 
-## Perspectiva Creativa
-🎨 Mi interés en las artes visuales aporta una perspectiva creativa al diseño de interfaces y experiencias de usuario. Es por esto que en colaboraciones pasadas mi posición en el proyecto estuvo bien enfocada a el perfeccionamiento estetico de las interfaces así como su usabilidad. 
-
-## Aprendizaje Continuo
-🤓📚 Estoy comprometida con el aprendizaje constante y la resolución de problemas, buscando siempre nuevos desafíos y soluciones eficientes.
-
+- 
 ## Intereses Personales
-👩‍🎨 Fuera del ámbito tecnológico, disfruto de actividades como la pintura, lectura y pastelería 🎨📖🧁 .
+👩‍🎨 Fuera del ámbito tecnológico, disfruto de actividades como escribir, leer, cocinar con mucha verdurita o pastelería, pintar y dormir.
+Según el día y momento😴🎨📖❤️.
 
 ## Contacto
 📬 ¡Ponte en contacto conmigo! Estoy abierta a colaboraciones, oportunidades laborales y nuevas conexiones:
