@@ -1,6 +1,6 @@
 # ¡Hola! Soy Camila Oyene 🌟
 
-🚀 Desarrolladora Web con experiencia en tecnologías como JavaScript, Node.js, React, Redux, Express y Ant Design. Estoy muy comprometida con el aprendizaje constante, por lo que me gusta aprender y probar diferentes tecnologías , así como reforzar conocimientos mientras espero nuevos desafíos💁
+🚀 Desarrolladora Web con experiencia en tecnologías como JavaScript, Node.js, React, Redux, Express y Ant Design. Estoy muy comprometida con el aprendizaje constante, por lo que me gusta aprender y probar diferentes tecnologías , así como reforzar conocimientos mientras llegan nuevos desafíos💁
 
 ## Habilidades Técnicas
 - Lenguajes de Programación: JavaScript, Python
